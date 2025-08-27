@@ -11,7 +11,7 @@ This app allows you to:
 1. Download a blank CSV template
 2. Upload a filled CSV to generate a `fixtureLibrary.xml` file
 
-To "install" the generated fixture library, you need to drag and drop the generated file to:
+To 'install' the generated fixture library, you need to drag and drop the generated file to:
             C:\Users\[USERNAME]\AppData\Roaming\COMcheck and replace the existing file!
 """)
 
