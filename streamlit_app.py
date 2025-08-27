@@ -85,3 +85,12 @@ if uploaded_file:
             file_name="fixtureLibrary.xml",
             mime="application/xml"
         )
+
+        st.markdown("""
+        ### ⚙️ Installation Instructions
+        To **install** the fixture library, drag and drop the generated file into:
+        ```
+        C:\\Users\\[USERNAME]\\AppData\\Roaming\\COMcheck
+        ```
+        and replace the existing file.
+        """)
